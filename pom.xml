@@ -5,7 +5,7 @@
 	<groupId>mavenforjenkins</groupId>
 	<artifactId>mavenforjenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-     <!-- Changes are done by sample-test1-->
+     <!-- Changes are done by sample-test12 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.testng</groupId>
